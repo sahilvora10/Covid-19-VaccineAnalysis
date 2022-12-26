@@ -1,7 +1,7 @@
 # Covid-19-Vaccine: A Social Media Exploratory Project
 #### This project was created as an objective to understand different attitudes towards Covid-19 Vaccines through Social Media Tweets. 
 
-As we have know, every coin has two sides and with social media on its peak, even cure to a pandemic also has supporters as well as protestors. This project helps in understanding the effect of different attitutdes over COVID-19 vaccine. This project takws various tweets based on hashtags for Pro Vaccine and Anti Vaccine campaigns and get results over seeing the cluster formations, how well are tha campaigns connected, determination of epi-center for campaigns, etc.
+As we have know, every coin has two sides and with social media on its peak, even cure to a pandemic also has supporters as well as protestors. This project helps in understanding the effect of different attitutdes over COVID-19 vaccine. This project takes various tweets based on hashtags for Pro Vaccine and Anti Vaccine campaigns and get results over seeing the cluster formations, how well are tha campaigns connected, determination of epi-center for campaigns, etc.
 
 #### This Project was done as a part of CSE 469: Social Media Mining course at ASU.
 
